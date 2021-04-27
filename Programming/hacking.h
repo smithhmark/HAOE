@@ -1,4 +1,5 @@
 
+#define NOTES_PATH "/var/notes"
 
 void fatal(char *msg) {
     char error_msg[100];
